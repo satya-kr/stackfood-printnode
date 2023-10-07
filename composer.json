@@ -1,0 +1,19 @@
+{
+    "name": "astergo/stackfood-printnode",
+    "description": "This packe for StackFood where you can connect or print invoice using PrintNode Software with StackFood portal",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Astergo\\StackfoodPrintnode\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "satya-kr",
+            "email": "satyajit.kr.prajapati@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
